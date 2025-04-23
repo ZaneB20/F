@@ -22,3 +22,7 @@ features that look weird
  (NumberFormatException e) --- i got this little gem from stack overflow, i saw it on there while trying to find code on how to make the choice section for what card to use. the (NumberFormatException e) makes it to where you cant enter anything but a number as a valid answer if you try puts out the ("Invalid input. Please enter a number: ") and then trys to get a valid input 
 
  - i think it works well 
+
+
+ The healer dealing negative -5 damage --- the reason i did this was becasue damage is just subtracted from the health and so - -5 is just +5 and so you will heal by 5 hp points
+ 
